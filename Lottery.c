@@ -22,8 +22,8 @@ void main()
        }
     }
     if (!won) 
-      printf("Sorry your Lottery Number : %4d did not win\n", YourLotteryNo); 
-    printf("Please,Enter your Lottery Number (0 to end): "); 
+      printf("Sorry your Lottery Number : %4d did not win\n na ja", YourLotteryNo); 
+    printf("Please,Enter your Lottery Number (0 to end): na ja"); 
     scanf("%d", &YourLotteryNo); 
   }
   printf("BYE");
